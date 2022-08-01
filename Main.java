@@ -1,5 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        Song holiday = new Song("Holiday", "Green Day", 300);
     }
 }
